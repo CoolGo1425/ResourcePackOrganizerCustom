@@ -4,17 +4,18 @@
   "version": "${version}",
 
   "name": "ResourcePackOrganizerCustom",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Enhances the Resource Pack menu by adding folder support for easier pack organization, ability to search packs by name or description, new sorting options, and quick refresh button directly in the GUI.",
+  "icon": "rpo_logo.png",
   "authors": [
     "dodi"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/CoolGo1425/ResourcePackOrganizerCustom"
   },
 
   "license": "MIT License",
-  "icon": "assets/modid/icon.png",
+
 
   "environment": "*",
   "entrypoints": {
