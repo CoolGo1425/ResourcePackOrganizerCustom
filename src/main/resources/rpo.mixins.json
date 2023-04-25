@@ -6,10 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "HookOpenScreen",
-    "ExposeAbstractFileResourcePack",
-    "ExposeFormat3ResourcePack",
-    "ExposeFormat4ResourcePack"
+    "Example.mixin"
   ],
   "injectors": {
     "defaultRequire": 1

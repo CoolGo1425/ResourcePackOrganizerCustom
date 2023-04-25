@@ -27,7 +27,7 @@
     ]
   },
   "mixins": [
-    "rpo.mixins.json"
+    "modid.mixins.json"
   ],
 
   "depends": {
